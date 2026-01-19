@@ -4,6 +4,12 @@ This repo contains details about Azure Fintech data pipeline involving datasets 
 **Project End to End Documentation:**
 
 
+https://deepwiki.com/ViinayKumaarMamidi/Azure_Fintech_Azure_SQL_Database_ADLS_Synapse_Project
+
+
+
+https://deepwiki.com/badge-maker?url=https%3A%2F%2Fdeepwiki.com%2FViinayKumaarMamidi%2FAzure_Fintech_Azure_SQL_Database_ADLS_Synapse_Project
+
 
 
 
